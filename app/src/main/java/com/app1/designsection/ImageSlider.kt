@@ -48,5 +48,6 @@ class ImageSlider : AppCompatActivity() {
 
         imageSlide.setImageResource(images[index])
 
+
     }
 }
